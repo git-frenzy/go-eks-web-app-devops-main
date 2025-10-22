@@ -14,8 +14,5 @@ The server will start on port 8080. You can access it by navigating to `http://l
 
 ## Looks like this
 
-![Website](static/images/golang-website.png)
+![Website]([static/images/golang-website.png](http://go-eks-web-app-devops-main.s3-website-us-east-1.amazonaws.com/home.html))
 
-
-# go-eks-web-app-devops-main
-# go-eks-web-app-devops-main
