@@ -1,4 +1,4 @@
-# 🦦 Go Web App — Kubernetes EKS | Helm | Docker | AWS Integration
+# Go Web App — Kubernetes EKS | Helm | Docker | AWS Integration
 
 [![Go](https://img.shields.io/badge/Go-1.21+-blue?logo=go)](https://go.dev/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-EKS-blue?logo=kubernetes)](https://aws.amazon.com/eks/)
@@ -9,14 +9,14 @@
 
 ---
 
-## 🌐 Demo (Static Overview)
+## Demo (Static Overview)
 > The live cluster isn’t currently hosted due to budget constraints.  
 > However, you can explore a **static demo and overview** of this project here:  
 > 🔗 [Go EKS Web App Demo (S3 Hosted)](http://go-eks-web-app-devops-main.s3-website-us-east-1.amazonaws.com/home.html)
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 This project demonstrates a **cloud-native Go web application** deployed using:
 - **Docker** for containerization  
 - **Helm** for Kubernetes deployment management  
@@ -27,7 +27,7 @@ It serves as a complete DevOps example for scalable Go applications in a product
 
 ---
 
-## 🧱 Architecture Overview
+## Architecture Overview
 
 ```mermaid
 graph TD
